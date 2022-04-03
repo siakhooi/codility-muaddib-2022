@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>nsh.codility</groupId>
-	<artifactId>challenge-2021</artifactId>
+	<artifactId>muaddib-2022</artifactId>
 	<version>1.0.0</version>
 
-	<name>challenge2021</name>
-	<url>https://github.com/siakhooi/codility-challenge-2021/</url>
+	<name>muaddib-2022</name>
+	<url>https://github.com/siakhooi/codility-muaddib-2022</url>
 
 	<build>
 		<plugins>
@@ -31,6 +31,12 @@
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-engine</artifactId>
+			<version>5.8.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-params</artifactId>
 			<version>5.8.1</version>
 			<scope>test</scope>
 		</dependency>
