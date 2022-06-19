@@ -22,3 +22,9 @@
 | File | Complexity     | Result | Report                                                                            |
 | ---- | -------------- | ------ | --------------------------------------------------------------------------------- |
 | `A`  | `O(M) or O(N)` | `Good` | [QRTM8Z](https://app.codility.com/cert/view/certQRTM8Z-DXJP9F3KU6NZ5GYD/details/) |
+
+### Based on Solutions from Codility
+
+| File | Complexity     | Result | Report                                                              |
+| ---- | -------------- | ------ | ------------------------------------------------------------------- |
+| `B`  | `O(M) or O(N)` | `Good` | [CDD9PJ](https://app.codility.com/demo/results/trainingCDD9PJ-A7H/) |
