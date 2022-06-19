@@ -150,7 +150,4 @@ public abstract class AbstractMuadDibs2022Test {
 	void testGroupSkip(int E, int[] A) {
 		assertEquals(E, testObject.solution(A));
 	}
-
-
-
 }
