@@ -5,7 +5,7 @@
 - Difficulty: Hard
 - Compute the minimum amount of money that you have to spend on tickets for some upcoming days.
 - <https://app.codility.com/programmers/challenges/muaddib_2022/>
-- <task-url>
+- <https://app.codility.com/programmers/task/public_transport_tickets_algo/>
 
 ## Versions
 
