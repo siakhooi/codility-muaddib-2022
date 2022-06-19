@@ -25,6 +25,8 @@
 
 ### Based on Solutions from Codility
 
-| File | Complexity     | Result | Report                                                              |
-| ---- | -------------- | ------ | ------------------------------------------------------------------- |
-| `B`  | `O(M) or O(N)` | `Good` | [CDD9PJ](https://app.codility.com/demo/results/trainingCDD9PJ-A7H/) |
+| File | Complexity     | Description | Result | Report                                                              |
+| ---- | -------------- | ----------- | ------ | ------------------------------------------------------------------- |
+| `B`  | `O(M) or O(N)` |             | `Good` | [CDD9PJ](https://app.codility.com/demo/results/trainingCDD9PJ-A7H/) |
+| `C1` | `O(2**N)`      | Recursive   | `Fail` | [G5TDWK](https://app.codility.com/demo/results/trainingG5TDWK-RKT/) |
+| `C2` | `O(2**N)`      | Recursive   | `Fail` | [RDSNWF](https://app.codility.com/demo/results/trainingRDSNWF-2RB/) |
